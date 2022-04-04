@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sergioesc_iptracker/static/css/main.9b50207f.css",
+    "main.js": "/sergioesc_iptracker/static/js/main.b3d99e36.js",
+    "index.html": "/sergioesc_iptracker/index.html",
+    "main.9b50207f.css.map": "/sergioesc_iptracker/static/css/main.9b50207f.css.map",
+    "main.b3d99e36.js.map": "/sergioesc_iptracker/static/js/main.b3d99e36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b50207f.css",
+    "static/js/main.b3d99e36.js"
+  ]
+}
